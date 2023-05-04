@@ -1,7 +1,7 @@
 
 import Foundation
 
-class CourseDao {
+ final class CourseDao {
   // MARK: Variable
   let db : FMDatabase?
   

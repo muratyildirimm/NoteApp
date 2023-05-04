@@ -2,7 +2,7 @@
 import UIKit
 
 class AddCourseViewController: UIViewController {
-  
+  // MARK: IBOutlet
   @IBOutlet weak var courseNameTF: UITextField!
   @IBOutlet weak var grade1TF: UITextField!
   @IBOutlet weak var grade2TF: UITextField!

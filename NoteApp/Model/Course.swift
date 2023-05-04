@@ -1,7 +1,7 @@
 
 import Foundation
 
-class Course {
+final class Course {
   var courseId: Int?
   var courseName: String?
   var grade1: Int?
